@@ -1,0 +1,27 @@
+--------q1
+
+ls
+la resultat est :
+commandes.txt
+cours/
+git.txt
+scrum.txt
+test.sh
+
+-------q2
+
+git add.ngit
+commit -m commit initial
+
+
+-------q3
+
+git checkout -b activites
+
+--------q4
+
+git branch
+
+--------q5
+
+git log
